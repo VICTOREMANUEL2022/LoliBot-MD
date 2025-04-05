@@ -1,7 +1,7 @@
 > <b>🚀 Versión actual: 1.9.8</b>
  
 <p align="center"> 
-<a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/VICTOREMANUEL2022b.1"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=LoliBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
 </p>
 
 <p align="center">
@@ -43,9 +43,9 @@
 ### 💫 𝗗𝘂𝗱𝗮 𝘀𝗼𝗯𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁? 
 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗺𝗲 ✨
 
-<a href="http://wa.me/573147616444" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+<a href="http://wa.me/59894243071" target="blank"><img src="https://img.shields.io/badge/Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 
-<a href="http://wa.me/573046570706?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59896172320?text=.estado" target="blank"><img src="https://img.shields.io/badge/Bot oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 ### ❇️ 𝙂𝙍𝙐𝙋𝙊𝙎 𝙊𝙁𝙄𝘾𝙄𝘼𝙇𝙀𝙎
@@ -80,7 +80,8 @@
 - **Estado de servicios:** [`Aquí`](https://estado.skyultraplus.com)
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
 - **Comunidad:** [`Aquí`](https://chat.whatsapp.com/JPwcXvPEUwlEOyjI3BpYys)
-- **Contacto(s):** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=15167096032&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://facebook.com/elrebelde21)
+- **Contacto(s):** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1) / [`Russell`](https://api.whatsapp.com/send/?phone=59894243071&text&type=phone_number&app_absent=0) / [`elrebelde21`](https://api.whatsapp.com/send/?phone=59896172320&text&type=phone_number&app_absent=0)
+(https://facebook.com/elrebelde21)
 - **Discord:** [`aqui`](https://discord.gg/Ph4eWsZ8)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - LoliBot-MD**</summary><img src="https://telegra.ph/file/7ddd30dd7d77354fb01fe.jpg"></details>
@@ -153,9 +154,10 @@ npm start
 ----
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="[https://github.com/VICTOREMANUEL20221"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
 
 ### 🌟 COLABORADORES
+[VICTOREMANUEL2022](https://github.com/VICTOREMANUEL2022) 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
 [![Yesenia57](https://github.com/Yesenia57.png?size=100)](https://github.com/Yesenia57) 
 [![AzamiJs](https://github.com/AzamiJs.png?size=100)](https://github.com/AzamiJs)  
